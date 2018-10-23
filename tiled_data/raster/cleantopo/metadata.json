@@ -1,0 +1,30 @@
+{
+    "driver": {
+        "bands": 1,
+        "format": "GTiff"
+    },
+    "pyramid": {
+        "grid": {
+            "bottom": -90.0,
+            "bounds": [
+                -180.0,
+                -90.0,
+                180.0,
+                90.0
+            ],
+            "crs": "+init=epsg:4326 +no_defs",
+            "is_global": true,
+            "left": -180.0,
+            "right": 180.0,
+            "shape": [
+                2,
+                1
+            ],
+            "srid": 4326,
+            "top": 90.0,
+            "type": "geodetic"
+        },
+        "metatiling": 1,
+        "pixelbuffer": 0
+    }
+}
