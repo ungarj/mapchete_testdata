@@ -1,7 +1,8 @@
 {
     "driver": {
         "bands": 1,
-        "format": "GTiff"
+        "format": "GTiff",
+        "dtype": "uint16"
     },
     "pyramid": {
         "grid": {
