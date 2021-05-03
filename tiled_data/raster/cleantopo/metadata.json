@@ -25,7 +25,7 @@
             ],
             "srid": 4326,
             "top": 90.0,
-            "grid": "geodetic"
+            "type": "geodetic"
         },
         "metatiling": 1,
         "pixelbuffer": 0
